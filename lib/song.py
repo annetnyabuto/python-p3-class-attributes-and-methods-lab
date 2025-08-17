@@ -48,8 +48,8 @@ class Song:
 
 #ninety_nine_problems = Song('Hollow', 'Ricky', 'hipop')
 #ninety_nine_problems = Song("99 Problems", "Jay-Z", "Rap")
-# print(ninety_nine_problems.genre)
+#print(ninety_nine_problems.genre)
 
-# print(ninety_nine_problems.count)
-# print(ninety_nine_problems.genres)
-# # print(ninety_nine_problems.artists)
+#print(ninety_nine_problems.count)
+#print(ninety_nine_problems.genres)
+#print(ninety_nine_problems.artists)
